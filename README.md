@@ -3,7 +3,7 @@
 
 In this notebook we have shown: 
 
-  1. Downloading and extracting datasets.
+  1. Downloading and extracting dataset.
   
   2. Calculating the mean and std for normalization.
   
